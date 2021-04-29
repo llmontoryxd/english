@@ -104,3 +104,43 @@ Rukina p.61-62 ex. 4
 10. Благодаря потреблению малой энергии, экспериментальное устройство более практично
 11. Вместо того, чтобы рассчитывать отдельные значения К на каждом временном интервале, графический метод может быть применен к охвату всего периода реакции
 12. В будущих вычислительных устройствах сигналы, вместо того, чтобы быть переданными электрическим током, будут передаваться методом лазерного излучения
+
+Rukina p.62-64 ex.5
+1. То, что устройство дорогое, помешало его массовому производству в настоящем
+2. То, что океан - основной непосредственный источник CO2 в воздухе, необходимо знать для изучения роли океана в цикле углерода
+3. То, что CO2 увеличивается в земной атмосфере, является результатом человеческой активности
+4. То, что человечество потребляет все больше и больше энергии, приводит к увеличению CO2 в атмосфере
+5. Изоляция космонавта после полета проводится для избежания риска болезни
+6. То, что общая температура увеличится на 2.5 градуса к середине следующего столетия, было предсказано математическими моделями
+7. То, что Ампер ввел крайне подходящие понятия электростатики и электромагнетизма, известно всем, кто интересуется историей науки
+8. То, что они разработали экспериментальный вариант оптического транзистора, является важным шагом в проектировании оптических компьютеров в недалеком будущем
+9. То, что температура на земле повысилась, привело к таянию полярных льдов и росту уровня моря
+10. Изменения в магнитном поле земли могут привести к нарушению работы дальней радиосвязи
+11. Суперпроводимость возникает в результате изменения поведения электронов проводимости в материале при низкой температуре
+12. Проходимость электрического тока через газ зависит от ионов, представленных в газе
+13. Континенты и океаны в основном отличаются их корой, имеющей разную толщину. Континентальная кора имеет толщину от 20 до 70км, в то время как океаническая - около 6км
+14. Грубо говоря, наличие спина объясняется тем, что электрон вращается вокруг своей оси
+15. Причины сильной изменчивости магнитного поля Солнца до сих пор плохо изучены
+16. Более того, теоретические результаты и новые экспериментальные данные подкрепляют возможность того, что пульсары - нейтронные звезды
+17. Не существует повсеместно принятого объяснения, что температуры в прошлом (миллионы лет назад) были выше
+18. С точки зрения земных ученых (кто изучает Землю), наша планеты возможно должна называться Океаном, а не Землей, потому что 70% ее покрыто водой
+19. Так как свет обладает характеристиками и волны, и частицы, иногда более подходящим описанием считается волновое, а иногда другое
+
+Rukina p.66 ex.7
+1. There are different ways of transmitting energy to the consumer
+2. Now it is worth referring to the analogy between electric current lines and current lines in a liquid
+3. It is useless solving this aerodynamic problem if you do not know the theory of lift
+4. You cannot calculate the resistance of a wire without using Ohm's law
+5. What prevents you from solving this problem in the conventional way
+6. In this case it is worth sticking to the usual method of unit translation
+7. It is worth repeating the basic equations of the previous chapter
+8. He couldn't help mentioning the main source of errors
+9. What prevents the new device from working under normal conditions?
+10. We cannot get a different end result without changing the initial conditions
+11. They were able of expressing the most complex phenomena of nature accurately and concisely
+12. You should try to avoid repeating these mistakes
+13. There is only one way of raising the temperature in this reaction
+14. Moving a charge from one point of the electric field to another, work is done
+15. After moving the charge to another point of the electric field, the field strength at that point changes
+16. What prevents you from exploring this area?
+17. We have managed of presenting the equation in a convenient form
